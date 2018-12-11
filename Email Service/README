@@ -1,0 +1,10 @@
+
+Email Service
+
+Execute the service:
+	go run main.go
+
+It will show the count of existing files
+It will show the count of existing users
+It will show the emails sent to recipients
+
